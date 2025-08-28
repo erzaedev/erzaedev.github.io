@@ -1,2 +1,2 @@
 # erzaedev.github.io
-website test
+This website is a prototype of a support ticket system. 
